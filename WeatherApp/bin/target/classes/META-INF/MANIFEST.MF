@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: WeatherApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cdeiderich
+Implementation-Vendor-Id: com.tts
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/WeatherApp
+Created-By: Maven Integration for Eclipse
+
